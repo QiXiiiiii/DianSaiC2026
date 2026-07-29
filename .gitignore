@@ -30,3 +30,19 @@ RTE/
 # Misc
 *.bak
 *.tmp
+
+# Binary tools and installers
+*.exe
+*.zip
+*.msi
+*.dll
+*.sys
+*.cat
+*.inf
+
+# Images (keep only if needed for docs)
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
