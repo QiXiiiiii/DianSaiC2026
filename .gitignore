@@ -46,3 +46,7 @@ RTE/
 *.jpeg
 *.bmp
 *.gif
+
+# Temporary extraction directories
+extracted_hw/
+extracted_pages/
