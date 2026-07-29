@@ -1,0 +1,32 @@
+# Keil / MDK build artifacts
+Output/
+Listing/
+DebugConfig/
+RTE/
+
+# Object files
+*.o
+*.obj
+*.crf
+*.d
+
+# Executables
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# Keil user-specific files
+*.uvguix.*
+*.uvoptx
+*.dep
+*.lnp
+*.htm
+*.sct
+*.build_log.htm
+
+# Misc
+*.bak
+*.tmp
