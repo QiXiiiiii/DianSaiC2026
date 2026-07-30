@@ -1,0 +1,5 @@
+﻿Data,Message,StackTrace,
+FF FF FF FF 00 25 00 99 20 01 01 02 00 00 0F 69 00 00 0F 69 00 00 00 1E 01 27 FF D7 12 34 03 7D 00 00 00 00 D6,在创建窗口句柄之前，不能在控件上调用 Invoke 或 BeginInvoke。,   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 System.Windows.Forms.Control.Invoke(Delegate method)
+   在 LocationService.BaseStationDataListen.LocDataHandle(String dataReceived),
